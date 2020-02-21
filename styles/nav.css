@@ -1,7 +1,9 @@
 .navigation {
     margin: 2em;
+    background-color: blue;
 }
 
 .navigation__link {
     padding: 0 1em 0 1em;
+    color: white;
 }

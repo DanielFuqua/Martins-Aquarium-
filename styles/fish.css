@@ -7,4 +7,15 @@
     flex-basis: 65%;
     display: flex;
     flex-wrap: wrap;
+    /* background-color: teal; */
+    display: grid;
+    /* opacity: 0.3; */
+    /* justify-content: space-between */
+   
+}
+
+.fish {
+    color: white;
+    background-color: rgba(9, 9, 196, 0.5);
+    border: dotted white;
 }

@@ -6,9 +6,18 @@
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-between;
+    justify-items: stretch;
+    /* background-color: tomato; */
 }
 
 
 .bordered {
-    border: 1px dashed goldenrod;
 }
+
+html { 
+        background: url(https://www.hakaimagazine.com/wp-content/uploads/header-vr-coral-beauty.jpg) no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+      }
