@@ -1,9 +1,8 @@
 .tipList {
     flex-basis: 20%;
     color: white;
-    background-color: rgba(9, 9, 196, 0.5);
-    border: dotted;
-    border-color: white;
+    background-color: rgba(121, 9, 196, 0.5);
+    text-align: center;
 }
 
 .tip {
