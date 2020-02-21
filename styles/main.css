@@ -1,0 +1,14 @@
+@import 'nav.css';
+@import 'fish.css';
+@import 'tips.css';
+
+.container {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+
+.bordered {
+    border: 1px dashed goldenrod;
+}
