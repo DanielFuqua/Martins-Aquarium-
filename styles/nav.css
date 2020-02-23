@@ -1,9 +1,11 @@
 .navigation {
     margin: 2em;
-    background-color: blue;
+    background-color: rgba(9, 9, 196, 0.5);
+    
 }
 
 .navigation__link {
     padding: 0 1em 0 1em;
     color: white;
+    filter:drop-shadow(7px 7px 7px #000000)
 }
