@@ -31,9 +31,13 @@
 .fish__name {
     margin: 15px 0px 15px 0px;
     color: rgb(229, 250, 3);
-    font-size: large;
+    font-size: 2em;
 }
 
 button {
     filter:drop-shadow(7px 7px 7px #000000);
+}
+
+.dialog--fish {
+    text-align: left;
 }

@@ -1,11 +1,13 @@
 .navigation {
     margin: 2em;
     background-color: rgba(9, 9, 196, 0.5);
+    text-align: center;
     
 }
 
 .navigation__link {
     padding: 0 1em 0 1em;
     color: white;
-    filter:drop-shadow(7px 7px 7px #000000)
+    filter:drop-shadow(7px 7px 7px #000000);
+    font-size: 2em;
 }

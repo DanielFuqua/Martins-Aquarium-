@@ -61,6 +61,34 @@ const initializeDetailButtonEvents = () => {
             theDialog.showModal()
         }
     )
+    document.querySelector("#button--caribbean").addEventListener(
+        "click",
+        theClickEvent => {
+            const theDialog = document.querySelector("#tips--caribbean")
+            theDialog.showModal()
+        }
+    )
+    document.querySelector("#button--cumberland").addEventListener(
+        "click",
+        theClickEvent => {
+            const theDialog = document.querySelector("#tips--cumberland")
+            theDialog.showModal()
+        }
+    )
+    document.querySelector("#button--gbr").addEventListener(
+        "click",
+        theClickEvent => {
+            const theDialog = document.querySelector("#tips--gbr")
+            theDialog.showModal()
+        }
+    )
+    document.querySelector("#button--nz").addEventListener(
+        "click",
+        theClickEvent => {
+            const theDialog = document.querySelector("#tips--nz")
+            theDialog.showModal()
+        }
+    )
 
 
 }
