@@ -10,7 +10,7 @@ const fishCollection = [
     },
     {
         name: "Betty",
-        food: "squid",
+        food: ["squid"],
         species: 'Longtooth Barracuda',
         location: "Cumberland River",
         length: "2 ft",  
@@ -18,7 +18,7 @@ const fishCollection = [
     },
     {
         name: "Nemo",
-        food: "Plankton",
+        food: ["Plankton"],
         species: 'Clownfish',
         location: "Great Barrier Reef",
         length: "2 in",   
@@ -26,7 +26,7 @@ const fishCollection = [
     },
     {
         name: "Dory",
-        food: "Clownsfish",
+        food: ["Clownsfish"],
         species: 'Blue Tang',
         location: "New Zealand Sea",
         length: "4 in",  
@@ -34,7 +34,7 @@ const fishCollection = [
     },
     {
         name: "Suzi",
-        food: "Squid",
+        food: ["Squid"],
         species: 'Longtooth Barracuda',
         location: "Cumebrland River",
         length: "2 ft",  
@@ -42,7 +42,7 @@ const fishCollection = [
     },
     {
         name: "Bill",
-        food: "Plankton",
+        food: ["Plankton"],
         species: 'Clownfish',
         location: "Great Barrier Reef",
         length: "2 in",  
@@ -50,7 +50,7 @@ const fishCollection = [
     },
     {
         name: "Sara",
-        food: "Clownfish",
+        food: ["Clownfish"],
         species: 'Blue Tang',
         location: "New Zealand Sea",
         length: "4 in",  
