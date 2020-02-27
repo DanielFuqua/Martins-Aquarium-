@@ -61,6 +61,10 @@ const initializeDetailButtonEvents = () => {
             theDialog.showModal()
         }
     )
+
+
+
+    // below is the locations
     document.querySelector("#button--caribbean").addEventListener(
         "click",
         theClickEvent => {
