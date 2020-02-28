@@ -4,8 +4,8 @@ import FishList from './FishList.js'
 import TipList from '../tips/TipList.js'
 import { useTip } from '../tips/TipDataProvider.js'
 
-// initializeDetailButtonEvents()
 
-FishList();
+FishList()
+initializeDetailButtonEvents()
 
-TipList();
+TipList()
