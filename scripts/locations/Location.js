@@ -7,9 +7,9 @@ const Location = (locationObject) => {
                     ${locationObject.name}
                 </div>
 
-                <div>
-                    <button id="button--${locationObject.name}">Tips</button>
-                </div>
+                
+                <button id="button--${locationObject.name}">Tips</button>
+               
                 
                <dialog class="dialog--location" id="tips--${locationObject.name}">
                    <p class="location__tips">

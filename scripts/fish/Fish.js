@@ -10,7 +10,7 @@ const Fish = (fishObject) => {
             <dialog class="dialog--fish" id="details--${fishObject.name}">
                 <div>Species: ${fishObject.species}</div>
                 <div>Location: ${fishObject.location}</div>
-                <div>Length: ${fishObject.size}</div>
+                <div>Length: ${fishObject.length}</div>
                 <div>Food: ${fishObject.food.join(",")}</div>
 
                 <button class="button--close">Close Dialog</button>
