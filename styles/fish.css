@@ -5,7 +5,6 @@
 
 .fishList {
     display: flex;
-    flex-basis: 65%;
     flex-wrap: wrap;
     
     /* background-color: teal; */
